@@ -6,7 +6,7 @@ Meu nome é Fernando Zimmermann Maciel, tenho 22 anos e sou um desenvolvedor apa
 ## Habilidades e Experiência
 - **Linguagens de Programação**: Principalmente Java
 - **Tecnologias**:Spring, JavaScript, TailwindCSS 
-- **Banco de Dados**: SQL
+- **Banco de Dados**: SQL e NoSQL
 - **Ferramentas Matemáticas**: Proficiência em MatLAB e LaTeX
 
 Estou dedicado a expandir meus conhecimentos e crescer pessoal e profissionalmente. Tenho uma base sólida em matemática, o que aprimora minhas habilidades de resolução de problemas e análise na programação.
